@@ -1,3 +1,5 @@
+![Hospital Financial Analytics Banner](banner.png)
+
 # 🏥 End-to-End Hospital Financial Data Cleaning & Analytics (151K+ Records)
 
 ## 🎯 Project Vision
