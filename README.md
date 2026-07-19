@@ -1,5 +1,6 @@
-![Hospital Financial Analytics Banner](banner2.png)
-
+<p align="center">
+  <img src="banner2.png" alt="Hospital Financial Data Cleaning & Analytics" width="100%">
+</p>
 # 🏥 End-to-End Hospital Financial Data Cleaning & Analytics (151K+ Records)
 
 ## 🎯 Project Vision
