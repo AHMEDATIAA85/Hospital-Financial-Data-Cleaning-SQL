@@ -1,4 +1,4 @@
-![Hospital Financial Analytics Banner](banner.png)
+![Hospital Financial Analytics Banner](banner2.png)
 
 # 🏥 End-to-End Hospital Financial Data Cleaning & Analytics (151K+ Records)
 
